@@ -1,4 +1,4 @@
-dar reikia prideti telefonine versija
+1.dar reikia prideti telefonine versija
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   theme: {
@@ -21,3 +21,4 @@ module.exports = {
   }
 }
 <div class="phone:grid grid-cols-1 tablet:grid-cols-2 laptop:grid-cols-3 desktop:grid-cols-4 tv:grid-cols-6">
+2.sutvarkyti gap tarp greenlady ir footer
